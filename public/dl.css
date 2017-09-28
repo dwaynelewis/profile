@@ -1,0 +1,29 @@
+body{
+  font-family: sans-serif;
+  /*background-image: url(dlprofile.jpg);*/
+  /*background-size: cover;*/
+  /*background-position: right;*/
+  /*background-repeat: no-repeat;*/
+  background-color: #b0b9a8;
+}
+
+/*.container {
+  background-image: url(gqprofile.jpg);
+}*/
+
+/*.container{*/
+
+}
+
+img{
+  max-width: 200px;
+
+  max-height: 500px;
+
+}
+
+h1{
+  color: white;
+font-size: 10em;
+
+}
